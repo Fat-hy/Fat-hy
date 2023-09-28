@@ -1,6 +1,6 @@
 # Welcome to Fat-hy's GitHub Profile!
 
-👋 Hello there! I'm Fat-hy, and I'm on a journey of continuous learning, personal growth, and making a positive impact on both my life and the world around me.
+👋 Asalam Alaykum! I'm Fat-hy, and I'm on a journey of continuous learning, personal growth, and making a positive impact on both my life and the world around me.
 
 ## About Me
 - 💻 I'm passionate about web development and believe in the power of technology to drive positive change.
