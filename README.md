@@ -1,5 +1,5 @@
-# Welcome to Fat-hy's GitHub Profile!
 
+## Welcome
 👋 Asalam Alaykum! I'm Fat-hy, and I'm on a journey of continuous learning, personal growth, and making a positive impact on both my life and the world around me.
 
 ## About Me
