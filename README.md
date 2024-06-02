@@ -10,7 +10,7 @@
 - 📖 I'm also passionate about sharing knowledge, so you might find some educational resources and notes in my repositories.
 
 ## Get in Touch
-- 💬 I love connecting with fellow developers, learners, and anyone interested in faith and technology.
+- 💬 I love connecting with fellow developers, learners, and anyone interested in technology.
 - 📧 You can reach out to me via email at [fathilmubbin@gmail.com].
 
 Feel free to explore my repositories, and I hope you find something that interests and inspires you.
